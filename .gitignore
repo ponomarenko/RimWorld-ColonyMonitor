@@ -7,6 +7,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+/.vscode/obj
+/*.sln 
+
+# /*/Assemblies
+# /*/Assemblies/*.pdb
+# /.vscode
+# /Source
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
